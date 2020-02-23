@@ -1,0 +1,28 @@
+*****************************************************************************************
+Alhamdulillah kami dapat menyelesaikan tugas besar DDP yaitu membuat game Ludo,
+terima kasih kepada berbagai pihak yang telah berkontribusi dalam pembuatan game ini.
+
+				Game ini dibuat oleh :
+
+				Laras Rasdiyani
+				191524016
+
+				Mochamad Nauval Dwisatya
+				191524023
+
+				D4 - 1A
+				Teknik Komputer dan Informatika
+				
+Terima kasih kepada :
+- geeksforgeeks.com
+- stackoverflow.com
+- programmingsimplified.com
+- embedded.com
+- daniweb.com
+- cboard.cprogramming.com
+- dreamincode.net
+- cplusplus.com
+- petanikode.com
+
+Copyright 2019 Politeknik Negeri Bandung
+*****************************************************************************************
